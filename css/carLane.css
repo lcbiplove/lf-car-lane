@@ -1,0 +1,14 @@
+body {
+    overflow: hidden;
+}
+#container {
+    margin: auto;
+}
+canvas {
+    margin: auto;
+    border: 1px solid #000;
+    background: url('../images/lane.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
